@@ -1,0 +1,15 @@
+html{
+  background-color: black;
+  width:100vw;
+  height: 100vh;
+  color: white;
+}
+
+button{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 300px;
+  font-size: xx-large;
+  border-radius: 10px;
+}
